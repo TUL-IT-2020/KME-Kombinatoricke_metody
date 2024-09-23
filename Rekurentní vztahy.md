@@ -1,4 +1,4 @@
-## Rekurentní vztahy
+# Rekurentní vztahy
 
 > [!note] Latinsky
 > rekurere - vraceti se
@@ -13,7 +13,7 @@ $\forall n >= n_o$, který umožňuje určit hodnotu $a_n$ na základě znalosti
 
 Řešením rekurentního vztahu rozumíme libovolnou posloupnost $\{a_n\}^\infty_{n=0}$, takovou že $\forall n >= n_o$  po dosazení hodnot $(a_n, a_n-1, ..., a_0, n)$ platí $F (a_n, a_n-1, ..., a_0, n) = 0$.
 
-### Základní klasifikace rk. vztahů
+## Základní klasifikace rk. vztahů
 - homogenní (nulová posloupnost je řešením)
 - nehomogenní 
 
@@ -22,3 +22,7 @@ $\forall n >= n_o$, který umožňuje určit hodnotu $a_n$ na základě znalosti
 
 ### Příklady
 ![[Rekurentní vztahy příklady]]
+
+## Dále:
+- [[Homogenní lineární rekurentní vztahy]]
+- [[Nehomogenní lineární rekurentní vztahy]]

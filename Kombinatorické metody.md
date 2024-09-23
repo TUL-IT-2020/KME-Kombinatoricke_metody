@@ -12,7 +12,7 @@ Písemná
 
 [[Posloupnost]]
 [[Rekurentní vztahy]]
-Vytvořující funkce
+[[Vytvořující funkce]]
 Kombinatorika
 Rozklady
 Teorie Grafů
