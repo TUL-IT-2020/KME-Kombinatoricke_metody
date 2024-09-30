@@ -1,6 +1,6 @@
 # Diference posloupnosti
 
-$\Delta a_n = a_n+1-a_n$
+$\Delta a_n = a_{n+1}-a_n$
 První diference v bodě n.
 $\{\Delta a_n\}^\infty_{n=0}$ ... posloupnost 1. diferencích
 
