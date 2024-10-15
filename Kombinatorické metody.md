@@ -1,5 +1,7 @@
 # KME - Kombinatorické metody
 
+## Lietratura
+- [[KME_text_2022_07_29.pdf|KME Koucky]]
 ## Zkouška
 
 Písemná
@@ -12,8 +14,14 @@ Písemná
 
 [[Posloupnost]]
 [[Rekurentní vztahy]]
+- [[Homogenní lineární rekurentní vztahy]]
+- [[Nehomogenní lineární rekurentní vztahy]]
 [[Vytvořující funkce]]
-Kombinatorika
+- [[Věžové polynomy]]
+- [[Úlohy s věžovými polynomy]]
+[[Úvod do klasické kombinatoriky|Kombinatorika]]
+- [[Permutace]]
+- [[Polyova enumerační metoda]]
 Rozklady
 Teorie Grafů
 

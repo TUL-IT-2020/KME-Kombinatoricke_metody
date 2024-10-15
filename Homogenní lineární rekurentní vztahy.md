@@ -1,16 +1,18 @@
 # Homogenní lineární rekurentní vztahy  
 
+> [!tip]
 Homogenní lineárním rekurentními vztahem řadu k s konstantními koeficienty rozumíme výraz:  
-HLR(\*) :
 $$
 c_k a_{n+k} + c_{k-1} a_{n+k-1} + ... + C_0 a_n = 0  
 $$
-Kde:  
-$C_i \in R (i= 0, ...,k)$ a zároveň $C_0C_k$ není 0  
+> [!example] Kde:  
+- $C_i \in R (i= 0, ...,k)$ a zároveň $C_0C_k$ není 0  
+
+> [!danger] HLR(\*)
 
 Řešením HLR(\*) rozumíme libovolnou posloupnost $a_n$ takovou ze pro každé....  
 HLR(\*) platí rovnost.  
-  
+
 Takže je to soustava nekonečně mnoha rovnic.
 
 Platí:
@@ -53,7 +55,7 @@ Otázka:
 Jak nalézt řešení HLR?
 (Jak nalézt bázi)
 
-Příklad:
+## Příklad:
 ![[HLR příklady]]
 ## Charakteristický polynom HLR(\*):
 Převedeme všechny členy na levou stranu.

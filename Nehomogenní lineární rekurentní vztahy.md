@@ -1,17 +1,17 @@
 # Nehomogenní lineární rekurentní vztahy
 
-Definice:
+> [!tip] Definice:
 Nehomogenním lineárním rekurentním vztahem řádu $k$ s konstantními koeficienty rozumíme výraz:
 $$
 C_ka_{n+k} + ... + c_0 a = p_n
 $$
-Kde:
+> [!example] Kde:
 - $C_i \in R$
 - $C_k*C_0 \neq 0$
 - $\exists n_0 \in N, p \neq 0$
 - $\{p_n\}_{n=0}^{infty}$ není identicky 0
 
-NHLR(\*\*)
+> [!danger] NHLR(\*\*)
 
 Platí:
 - Má nekonečně mnoho řešení pro libovolnou pravou stranu $p_n$.
