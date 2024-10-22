@@ -20,7 +20,7 @@ Písemná
 - [[Věžové polynomy]]
 - [[Úlohy s věžovými polynomy]]
 [[Úvod do klasické kombinatoriky|Kombinatorika]]
-- [[Permutace]]
+- [[TUL-SZZ/Matematika/Kombinatorika/Permutace]]
 - [[Polyova enumerační metoda]]
 Rozklady
 Teorie Grafů

@@ -2,7 +2,7 @@
 
 Autor: George Pólya
 
-Opakování: [[Permutace]]
+Opakování: [[TUL-SZZ/Matematika/Kombinatorika/Permutace]]
 
 $\pi \in S_n = cyc\_str(\pi)$ 
 
