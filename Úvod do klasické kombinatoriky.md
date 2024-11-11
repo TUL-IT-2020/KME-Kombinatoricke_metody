@@ -3,14 +3,8 @@
 > Kolika různými způsoby lze vybrat k objektů?
 
 ## Rozklad množiny A
+![[Třídy rozkladu množiny]]
 
-Podmnožiny B jsou neprázdné.
-$B_1, ..., B_2 \subeq A$ tvoří rozklad A, jestliže:
-
-1) $B_1 u B_2 u ... u B_k = A$
-2) $\forall i \neq j; b_i a b_j = \empty$
-
-$B_1, ..., B_k$ jsou takzvané třídy rozkladu. 
 
 ## Entice
 
@@ -21,26 +15,7 @@ $B_1, ..., B_k$ jsou takzvané třídy rozkladu.
 ![[Entice]]
 
 ## Kombinatorická pravidla
-### Pravidlo součtu
-
-$A = \{a_1,...,a_m\}$
-$B = \{b_1,...,b_n\}$
-
-Potom jeden prvek z A nebo B lze vybrat m+n různými způsoby.
-
-$A prunik B = \notempty -> | A sjednoceni B | = |A| + |B|$
-
-### Pravidlo součinu
-
-$A = \{a_1,...,a_m\}$
-$B = \{b_1,...,b_n\}$
-
-$A a B = \empty$
-Potom uspořádanou dvojici $(a,b)$, kde $a \in A, b \in B$ lze vybrat $m*n$ , možnými způsoby.
-
-Počet prvků kartézského součinu:
-
-$|A*B| = |A|*|B|$
+![[Kombinatorická pravidla]]
 
 ## Dirichletův princip
 ![[Dirichletův princip]]
@@ -101,4 +76,15 @@ Neuspořádaná k-tice
 
 ## Newtonův vzorec
 ![[Newtonův vzorec]]
+
+## Kombinatorika s omezenými podmínkami
+
+### Subfaktoriál
+![[Subfaktoriál]]
+
+### Průchod čtvercovou sítí
+![[Průchod čtvercovou sítí]]
+### Rozklady
+![[Rozklady]]
+
 
