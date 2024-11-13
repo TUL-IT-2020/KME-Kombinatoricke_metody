@@ -9,6 +9,9 @@ Písemná
 
 ## Cvičení
 
+> Abstraktní uvažování je důležitější, než použitelnost matematiky.
+> - Koutský
+
 ## Poznámky
 [[Poznámky]]
 
