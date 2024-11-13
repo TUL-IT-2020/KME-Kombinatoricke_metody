@@ -1,5 +1,9 @@
 # Příklady ze cvičení
 
+- [[KME_příklady_gen_fnc_web.pdf]]
+- [[KME_příklady_rekurent_web.pdf]]
+- [[KME_příklady_elem_komb_web.pdf]]
+
 ## K Zamyšlení:
 ### 1.
 
