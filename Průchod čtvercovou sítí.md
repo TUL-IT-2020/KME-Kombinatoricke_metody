@@ -153,3 +153,6 @@ $C_1 = C_0*C_0$
 Nemůžeme použít charakteristickou rovnici.
 
 Metoda [[Vytvořující funkce|vytvořujících funkcí]].
+
+## Příklady
+- [[Průchod čtvercovou sítí příklady]]
