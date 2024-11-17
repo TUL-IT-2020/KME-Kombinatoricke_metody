@@ -23,8 +23,8 @@ Písemná
 - [[Věžové polynomy]]
 - [[Úlohy s věžovými polynomy]]
 [[Úvod do klasické kombinatoriky|Kombinatorika]]
-- [[TUL-SZZ/Matematika/Kombinatorika/Permutace]]
+- [[TUL-SZZ/Matematika/Kombinatorika/Permutace|Permutace]]
 - [[Polyova enumerační metoda]]
-Rozklady
+[[Rozklady|Rozklady]]
 Teorie Grafů
 

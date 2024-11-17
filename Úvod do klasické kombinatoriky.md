@@ -84,7 +84,6 @@ Neuspořádaná k-tice
 
 ### Průchod čtvercovou sítí
 ![[Průchod čtvercovou sítí]]
-### Rozklady
-![[Rozklady]]
-
+### Dále:
+- [[Rozklady]]
 
