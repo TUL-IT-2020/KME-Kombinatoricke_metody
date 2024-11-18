@@ -105,3 +105,8 @@ $x =4$
 $$
 \binom{5}{6} \binom{5}{2}
 $$
+
+
+$$
+\begin{array}{c} 12 \\ 34 \end{array}
+$$
