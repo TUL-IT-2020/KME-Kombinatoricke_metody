@@ -87,3 +87,4 @@ Neuspořádaná k-tice
 ### Dále:
 - [[Rozklady]]
 
+
